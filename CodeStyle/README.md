@@ -1,11 +1,8 @@
 # Code Style
-All Polypheny-DB projects follow an modified and extended version of the [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html).
+All Polypheny-DB projects follow an modified and extended version of the [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html). The most recent Google Style Guides can be found [here](https://github.com/google/styleguide).
 
 The IntelliJ Code Style definition can be downloaded here: 
 [Polypheny-DB-Style.xml](Polypheny-DB-Style.xml)
-
-
-The most recent Google Style Guides can be found here: (https://github.com/google/styleguide)
 
 The following sections introduce Polypheny-DB specific changes.
 
