@@ -1,0 +1,2 @@
+# Polypheny-DB Logo
+
