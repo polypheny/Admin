@@ -10,16 +10,16 @@ The most recent Google Style Guides can be found here: [[ https://github.com/goo
 The following sections introduce Polypheny-DB specific changes.
 
 
-### Indents 
+## Indents 
 Indentations are made with **4 spaces**.
 
 
-### Getter & toString()
+## Getter & toString()
 IMPORTANT: Getter and `toString()` **must not** have any side effects.
 
 
 
-### Vertical whitespace around
+## Vertical whitespace around
   * Methods: 2
 ```
 lang=java
@@ -70,7 +70,7 @@ public class Mess {
 ```
 
 
-### Horizontal whitespace within
+## Horizontal whitespace within
   * Array initializer braces 
 ```
 lang=java
@@ -129,5 +129,8 @@ while ( ! this.isStopped ) {
 ```
 
 
-### JavaDoc
-Do not use the `@author` tag. This information can always be found accurate and up to date in the git log.
+## Documentation
+
+### @author Tag
+Do not use the JavaDoc `@author` tag or a similar tag in other language. This information can always be found accurate and up to date in the git log.
+
