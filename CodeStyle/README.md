@@ -1,11 +1,11 @@
 # Code Style
-All `Polypheny-DB` projects follow an modified and extended version of the [[ https://google.github.io/styleguide/javaguide.html | Google Java Style Guide ]].
+All Polypheny-DB projects follow an modified and extended version of the [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html).
 
 The IntelliJ Code Style definition can be downloaded here: 
 [Polypheny-DB-Style.xml](Polypheny-DB-Style.xml)
 
 
-The most recent Google Style Guides can be found here: [[ https://github.com/google/styleguide ]]
+The most recent Google Style Guides can be found here: (https://github.com/google/styleguide)
 
 The following sections introduce Polypheny-DB specific changes.
 
@@ -16,7 +16,6 @@ Indentations are made with **4 spaces**.
 
 ## Getter & toString()
 IMPORTANT: Getter and `toString()` **must not** have any side effects.
-
 
 
 ## Vertical whitespace around
@@ -58,12 +57,12 @@ lang=java
 public class Mess {
 
 
-  public static class Foo {
-  }
+    public static class Foo {
+    }
 
 
-  protected class Bar {
-  }
+    protected class Bar {
+    }
 
 
 }
