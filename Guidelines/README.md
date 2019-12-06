@@ -4,3 +4,4 @@ On the following pages we describe guidelines and best practices for Polypheny d
 
 * [Logging](Logging.md)
 * [Documentation](Documentation.md)
+* [Dependencies](Dependencies.md)
