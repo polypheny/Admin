@@ -6,10 +6,10 @@ This guideline describes the best practices for including java dependencies via 
 
 To ensure that all subprojects use the same version of a dependency, the version numbers are stored in `gradle.properties`.
 
-The `build.gradle` file should look like this:
+The `build.gradle` file should look like this, note the `version` part:
 ```groovy
 dependencies {
-    compile group: "com.example". name: "example-lib", version: example_lib_version
+    compile group: "com.example", name: "example-lib", version: example_lib_version
 }
 ```
 
