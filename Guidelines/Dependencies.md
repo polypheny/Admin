@@ -1,6 +1,6 @@
-# Dependency Guidelines
+# Dependency Management
 
-This guideline describes the best practices for including java dependencies via gradle in Polypheny.
+This guideline describes the best practices for including java dependencies via gradle in Polypheny-DB. 
 
 ## Version numbers
 
@@ -19,6 +19,9 @@ You then also have to add an entry for it in `gradle.properties`:
 example_lib_version = 23.1.2
 ...
 ```
+
+## Note
+The procedure described in this guideline does only apply to Polypheny-DB and not to the other projects.
 
 ## Related issues/pull requests:
 - [Different declared dependency versions between subprojects](https://github.com/polypheny/Polypheny-DB/issues/89)
