@@ -16,8 +16,8 @@ labels to issues and (to a lesser degree) pull requests:
 
 * Light purple, **C**-prefixed labels represent the **category** of an issue.
 
-* Green, **E**-prefixed labels explain the level of **experience** necessary
-  to fix the issue.
+* Green, **E**-prefixed labels explain the level of **experience** 
+  working with Polypheny-DB that is necessary to fix the issue.
 
 * The light orange **invalid** label marks an issue as being opened in error.
 
