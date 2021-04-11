@@ -1,6 +1,6 @@
 # Copyright
 
-Polypheny-DB is licensed under the Apache 2 license. All other parts of the Polypheny project like the UI are licensed
+Polypheny-DB is licensed under the Apache 2 license. The Polypheny UI is licensed
 under the MIT license.
 
 
